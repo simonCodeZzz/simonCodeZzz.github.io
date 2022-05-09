@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "ZHANG Simian (Simon)"
 title_separator          : "-"
 name                     : &name "ZHANG Simian (Simon)"
-description              : &description "Hi there! I am Simon, a Year 3 (soon-to-be Year 4) student at National University of Singapore (NUS), with primary major in Data Science & Analytics and second major in Economics. I have lived in China for 15 years and studied in Singapore for 8 years. I have a strong interest in applying my knowledge in data science to solve problems in the real world.  Currently, I am a Research Assistant in Institute of Operations Research and Analytics (IORA) under supervision of Prof. Jussi Keppo."
+description              : &description "Hi there! I am Simon, a Year 3 (soon-to-be Year 4) student at National University of Singapore (NUS), with primary major in Data Science & Analytics and second major in Economics. 
+  I have lived in China for 15 years and studied in Singapore for 8 years. I have a strong interest in applying my knowledge in data science to solve problems in the real world. 
+  Currently, I am a Research Assistant in Institute of Operations Research and Analytics (IORA) under supervision of Prof. Jussi Keppo."
 url                      : https://simonCodeZzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonCodeZzz/simonCodeZzz.github.io"
@@ -80,41 +82,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "ZHANG Simian (Simon)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Data Science & Analytics, Economics"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
+  # pubmed           : ""
+  # googlescholar    : ""
+  email            : "zhang.simian@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  github           : "simonCodeZzz"
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # linkedin         :
+  # orcid            : ""
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : ""
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
