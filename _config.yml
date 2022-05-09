@@ -10,9 +10,7 @@ locale                   : "en-US"
 title                    : "ZHANG Simian (Simon)"
 title_separator          : "-"
 name                     : &name "ZHANG Simian (Simon)"
-description              : &description "Hi there! I am Simon, a Year 3 (soon-to-be Year 4) student at National University of Singapore (NUS), with primary major in Data Science & Analytics and second major in Economics. 
-  I have lived in China for 15 years and studied in Singapore for 8 years. I have a strong interest in applying my knowledge in data science to solve problems in the real world. 
-  Currently, I am a Research Assistant in Institute of Operations Research and Analytics (IORA) under supervision of Prof. Jussi Keppo."
+description              : &description ""
 url                      : https://simonCodeZzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonCodeZzz/simonCodeZzz.github.io"
