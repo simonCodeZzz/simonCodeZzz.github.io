@@ -1,0 +1,10 @@
+---
+title: "Singapore Mixed Veg Rice (Cai Fan) Recognition"
+excerpt: "Scraped data from Google Image and applied deep learning models to detect and classify local dish in images"
+collection: portfolio
+---
+
+[GitHub Repo](https://github.com/willpyt98/CS4243_Project)
+* Scraped and cleaned image data of popular Singapore Mixed Vegetable Rice dishes from Google image in Python
+* Implemented deep learning models including MLP and CNN variants for classification in PyTorch (test error < 9%)
+* Researched and applied weakly supervised learning technique Class Activation Map (CAM) for dish detection 

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](./files/resume.pdf) for a PDF of my resume.
+
 Education
 ======
 * B.Sc.(Hons.) in Data Science & Analytics, National University of Singapore (NUS), Aug 2019 - May 2023 (expected)
