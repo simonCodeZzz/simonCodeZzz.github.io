@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Simon, a Year 3 (soon-to-be Year 4) student at [National University of Singapore (NUS)](https://www.nus.edu.sg/), with primary major in Data Science & Analytics and second major in Economics. 
+Hi there! I am Simon, a final year student at [National University of Singapore (NUS)](https://www.nus.edu.sg/), with primary major in Data Science & Analytics and second major in Economics. 
 I have lived in China for 15 years and studied in Singapore for 8 years. I am a Research Assistant in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/) under supervision of [Prof. Jussi Keppo](https://www.jussikeppo.com/).
 
 My research interest is on the application of statistics/data science in microeconomics, currently including Bayesian structural equation modeling (my final-year-project) and auction mechanism design.
@@ -25,7 +25,7 @@ Work & Research Experience
 * **Student Research Assistant, NUS IORA, Singapore** (Jan 2022 – Present)
   * Supervised by Prof Jussi Keppo from NUS Business School
   * Scraped and processed data of Kaggle competition submissions, performed Bayesian estimation for crucial model parameters and assisted in model diagnostics in mechanism design project
-  * Researched on herd detection in financial forecasts using large-scale Bayesian structural estimation methods
+  * Performed model robustness checking with extensive simulations for herd detection in financial forecasts using large-scale Bayesian structural estimation methods
 
 * **Data Engineer Intern, ByteDance, Singapore** (May 2021 - July 2021)
   * Constructed stable data pipelines using Hive, Spark, Kafka to account for costs and revenues of video services such as storage, transcoding, playing and content delivery network (CDN)
