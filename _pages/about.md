@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Simon, a final year student at [National University of Singapore (NUS)](https://www.nus.edu.sg/), with primary major in Data Science & Analytics and second major in Economics. 
-I have lived in China for 15 years and studied in Singapore for 8 years. I am a Research Assistant in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/) under supervision of [Prof. Jussi Keppo](https://www.jussikeppo.com/).
+Hi there! I am Simian (or Simon if you prefer), currently a final year student at [National University of Singapore (NUS)](https://www.nus.edu.sg/) and a research assistant in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/). I am an incoming PhD student in [Department of Information System and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
 
-My research interest is on the application of statistics/data science in microeconomics, currently including Bayesian structural equation modeling (my final-year-project) and auction mechanism design.
+My research interests lie in platform strategy and mechanism design with empirical data analysis. Currently I am working on projects about platforms for online advertisement, streaming music, and professional examination.
 
 ------
 
@@ -24,7 +23,7 @@ Work & Research Experience
 
 * **Student Research Assistant, NUS IORA, Singapore** (Jan 2022 – Present)
   * Supervised by Prof Jussi Keppo from NUS Business School
-  * Scraped and processed data of Kaggle competition submissions, performed Bayesian estimation for crucial model parameters and assisted in model diagnostics in mechanism design project
+  * Conducted Bayesian structural estimation for comparative statics, processed data from multiple sources in Python and R, and assisted in model diagnostics in multiple projects including contest design and pilot training
   * Performed model robustness checking with extensive simulations for herd detection in financial forecasts using large-scale Bayesian structural estimation methods
 
 * **Data Engineer Intern, ByteDance, Singapore** (May 2021 - July 2021)
@@ -35,7 +34,7 @@ Work & Research Experience
 * **Data Analytics Intern, International SOS, Singapore** (Dec 2020 - Jan 2021)
   * Assisted data scientists and data analysts with timely data cleaning, modelling and reporting
   * Wrote R scripts to automate data quality checking of more than 1,000,000 entries in data migration project
-  * Analyzed medical text data, performed feature engineering and applied clustering model to help management gain operational insights
+  * Analyzed medical data, applied clustering model with feature engineering to provide operational insights
 
 Skills
 ======
