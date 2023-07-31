@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Simian (or Simon if you prefer), currently a final year student at [National University of Singapore (NUS)](https://www.nus.edu.sg/) and a research assistant in [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/). I am an incoming PhD student in [Department of Information System and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
+Hi there! I am Simian (or Simon if you prefer), currently a PhD student in [Department of Information System and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
 
-My research interests lie in platform strategy and mechanism design with empirical data analysis. Currently I am working on projects about platforms for online advertisement, streaming music, and professional examination.
+My research interests lie in analytical modelling and mechanism design for online platforms. Currently I am working on projects about online ad-auction and streaming media.
 
 ------
 
 Education
 ======
-* B.Sc.(Hons.) in Data Science & Analytics, National University of Singapore (NUS), Aug 2019 - May 2023 (expected)
+* PhD in Information Systems and Analytics, National University of Singapore (NUS), Aug 2023 - Present
+* B.Sc.(Hons.) in Data Science & Analytics, National University of Singapore (NUS), Aug 2019 - May 2023
 
 Work & Research Experience
 ======
 
-* **Student Research Assistant, NUS IORA, Singapore** (Jan 2022 – Present)
+* **Student Research Assistant, NUS IORA, Singapore** (Jan 2022 – July 2023)
   * Supervised by Prof Jussi Keppo from NUS Business School
   * Conducted Bayesian structural estimation for comparative statics, processed data from multiple sources in Python and R, and assisted in model diagnostics in multiple projects including contest design and pilot training
   * Performed model robustness checking with extensive simulations for herd detection in financial forecasts using large-scale Bayesian structural estimation methods
