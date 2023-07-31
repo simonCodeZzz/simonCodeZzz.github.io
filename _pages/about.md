@@ -16,8 +16,8 @@ My research interests lie in analytical modelling and mechanism design for onlin
 
 Education
 ======
-* Ph.D. in Information Systems and Analytics, NUS, Aug 2023 - Present
-* B.Sc.(Hons.) in Data Science & Analytics, NUS, Aug 2019 - May 2023
+* **Ph.D. in Information Systems and Analytics, NUS** (Aug 2023 – Present)
+* **B.Sc.(Hons.) in Data Science & Analytics, NUS** (Aug 2019 – May 2023)
 
 Work & Research Experience
 ======
@@ -27,12 +27,12 @@ Work & Research Experience
   * Conducted Bayesian structural estimation for comparative statics, processed data from multiple sources in Python and R, and assisted in model diagnostics in multiple projects including contest design and pilot training
   * Performed model robustness checking with extensive simulations for herd detection in financial forecasts using large-scale Bayesian structural estimation methods
 
-* **Data Engineer Intern, ByteDance, Singapore** (May 2021 - July 2021)
+* **Data Engineer Intern, ByteDance, Singapore** (May 2021 – July 2021)
   * Constructed stable data pipelines using Hive, Spark, Kafka to account for costs and revenues of video services such as storage, transcoding, playing and content delivery network (CDN)
   * Collaborated with product managers and engineers to optimize existing data pipelines and provide accurate and timely dashboard reporting
   * Built forecasting model in Python to predict usage of bandwidth by video services with mean absolute error less than 3% (improved from > 10%) to help budget planning
 
-* **Data Analytics Intern, International SOS, Singapore** (Dec 2020 - Jan 2021)
+* **Data Analytics Intern, International SOS, Singapore** (Dec 2020 – Jan 2021)
   * Assisted data scientists and data analysts with timely data cleaning, modelling and reporting
   * Wrote R scripts to automate data quality checking of more than 1,000,000 entries in data migration project
   * Analyzed medical data, applied clustering model with feature engineering to provide operational insights
