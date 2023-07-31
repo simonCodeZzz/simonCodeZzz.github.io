@@ -16,8 +16,8 @@ My research interests lie in analytical modelling and mechanism design for onlin
 
 Education
 ======
-* PhD in Information Systems and Analytics, National University of Singapore (NUS), Aug 2023 - Present
-* B.Sc.(Hons.) in Data Science & Analytics, National University of Singapore (NUS), Aug 2019 - May 2023
+* Ph.D. in Information Systems and Analytics, NUS, Aug 2023 - Present
+* B.Sc.(Hons.) in Data Science & Analytics, NUS, Aug 2019 - May 2023
 
 Work & Research Experience
 ======
