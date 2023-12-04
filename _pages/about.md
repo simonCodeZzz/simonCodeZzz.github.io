@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am Simian (or Simon if you prefer), currently a PhD student in [Department of Information System and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
 
-My research interests lie in analytical modelling and mechanism design for online platforms. Currently I am working on projects about online ad-auction and streaming media.
+My research interests lie in analytical modelling and mechanism design for online streaming media platforms.
 
 ------
 
@@ -23,13 +23,12 @@ Work & Research Experience
 ======
 
 * **Student Research Assistant, NUS IORA, Singapore** (Jan 2022 – July 2023)
-  * Supervised by Prof Jussi Keppo from NUS Business School
   * Conducted Bayesian structural estimation for comparative statics, processed data from multiple sources in Python and R, and assisted in model diagnostics in multiple projects including contest design and pilot training
   * Performed model robustness checking with extensive simulations for herd detection in financial forecasts using large-scale Bayesian structural estimation methods
 
 * **Data Engineer Intern, ByteDance, Singapore** (May 2021 – July 2021)
-  * Constructed stable data pipelines using Hive, Spark, Kafka to account for costs and revenues of video services such as storage, transcoding, playing and content delivery network (CDN)
-  * Collaborated with product managers and engineers to optimize existing data pipelines and provide accurate and timely dashboard reporting
+  * Constructed and optimised stable data pipelines using Hive, Spark, Kafka to account for costs and revenues of video services such as storage, transcoding, playing and content delivery network (CDN)
+  * Collaborated with product managers and engineers to provide accurate and timely dashboard reporting
   * Built forecasting model in Python to predict usage of bandwidth by video services with mean absolute error less than 3% (improved from > 10%) to help budget planning
 
 * **Data Analytics Intern, International SOS, Singapore** (Dec 2020 – Jan 2021)
