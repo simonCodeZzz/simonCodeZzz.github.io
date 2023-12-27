@@ -15,7 +15,7 @@ Teaching Assistant
 **Semester 1, AY2023/24:**
 * **BT1101 Introduction to Business Analytics, NUS Department of Information Systems and Analytics**
   * Class Size: 57+56 (2 Groups)
-  * Student Feedback Rating: TBA
+  * Student Feedback Rating: 4.3/5.0 (Dept Tutorial Avg: 4.1)
 
 **Semester 2, AY2022/23:**
 * **DSA2101 Essential Data Analytics Tools: Data Visualisation, NUS Department of Statistics and Data Science**
