@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Simian (or Simon if you prefer), currently a PhD student in [Department of Information System and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
+Hi there! I am Simian (or Simon if you prefer), currently a PhD student in [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/) at [NUS School of Computing](https://www.comp.nus.edu.sg/).
 
 My research interests lie in analytical modelling and mechanism design for online streaming media platforms. I am also exploring opportunities to employ structural model for empirical works. If you have interesting research ideas, I would be happy to discuss with you via my email zhang.simian at u.nus.edu.
 
