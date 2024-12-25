@@ -12,6 +12,11 @@ redirect_from:
 Teaching Assistant
 ======
 
+**Semester 1, AY2024/25:**
+* **IS4242 Intelligent Systems and Techniques, NUS Department of Information Systems and Analytics**
+  * Class Size: 76 = 56 + 20 (2 Groups)
+  * Student Feedback Rating: 4.3/5.0 (Department Average: 4.1)
+
 **Semester 2, AY2023/24:**
 * **BT1101 Introduction to Business Analytics, NUS Department of Information Systems and Analytics**
   * Class Size: 150 = 49 + 31 + 37 + 33 (4 Groups)
