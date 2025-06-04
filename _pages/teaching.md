@@ -12,6 +12,11 @@ redirect_from:
 Teaching Assistant
 ======
 
+**Semester 2, AY2024/25:**
+* **IS4303 IT-mediated Financial Solutions and Platforms, NUS Department of Information Systems and Analytics**
+  * Class Size: 39 (1 Group)
+  * Student Feedback Rating: 4.2/5.0 (Department Average: 4.1)
+
 **Semester 1, AY2024/25:**
 * **IS4242 Intelligent Systems and Techniques, NUS Department of Information Systems and Analytics**
   * Class Size: 76 = 56 + 20 (2 Groups)
